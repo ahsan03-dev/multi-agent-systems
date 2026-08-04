@@ -13,6 +13,21 @@ Three AI agents work together like a real content team:
 
 The final blog post is saved as a markdown file in the `output/` folder.
 
+## File Structure  
+
+``` 
+blog-crew/
+├── src/
+│   ├── agents.py      
+│   ├── tasks.py       
+│   ├── tools.py       
+│   └── crew.py
+├── main.py            
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── output/            
+```
 
 ## Tech Stack
 
@@ -29,11 +44,3 @@ The final blog post is saved as a markdown file in the `output/` folder.
 -> `Rise of Gaming : Advantages and Disadvantages`  
 
 **Output:** You can see the `output/` to see the blog files generated from these inputs.
-
-
-## Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/blog-crew.git
-   cd blog-crew
