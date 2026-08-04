@@ -2,7 +2,6 @@
 
 A multi-agent system built with [CrewAI](https://crewai.com) that researches, writes, and edits blog posts automatically. Give it a topic, and it handles the rest.
 
-<br>
 
 ## How It Works
 
@@ -14,7 +13,6 @@ Three AI agents work together like a real content team:
 
 The final blog post is saved as a markdown file in the `output/` folder.
 
-<br>
 
 ## Tech Stack
 
@@ -22,7 +20,6 @@ The final blog post is saved as a markdown file in the `output/` folder.
 - CrewAI
 - DuckDuckGo Search (free, no API key needed for research)
 
-<br>
 
 ## Example Inputs
 
@@ -34,7 +31,6 @@ The final blog post is saved as a markdown file in the `output/` folder.
 
 **Output:** See the `output/` folder for a fully researched and proper blog file.
 
-<br>
 
 ## Setup
 
