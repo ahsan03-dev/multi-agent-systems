@@ -20,6 +20,8 @@ The following workflow illustrates a typical MAS execution pipeline:
 | 5    | Validate outputs against quality criteria    | Reviewer Agent               |
 | 6    | Deliver final result                         | Orchestrator                 |
 
+<img width="1376" height="768" alt="28176beaa99f41a8860918091722fc65" src="https://github.com/user-attachments/assets/9aa1fb68-42ce-490e-bc2f-f0463fb8f4f4" />
+
 ### Communication Patterns
 
 Agents exchange data through defined protocols. Common patterns include:
