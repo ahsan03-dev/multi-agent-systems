@@ -1,6 +1,8 @@
-# Blog Content Creation Crew
+# Blog Creation Crew
 
 A multi-agent system built with [CrewAI](https://crewai.com) that researches, writes, and edits blog posts automatically. Give it a topic, and it handles the rest.
+
+<br>
 
 ## How It Works
 
@@ -12,6 +14,8 @@ Three AI agents work together like a real content team:
 
 The final blog post is saved as a markdown file in the `output/` folder.
 
+<br>
+
 ## Demo
 
 **Input:** `"coolcationing travel trends 2026"`
@@ -19,6 +23,8 @@ The final blog post is saved as a markdown file in the `output/` folder.
 **Output:** A fully researched, structured blog post saved as `output/coolcationing_travel_trends_2026_20260804_153820.md`
 
 *(See `output/` for sample posts)*
+
+<br>
 
 ## Tech Stack
 
