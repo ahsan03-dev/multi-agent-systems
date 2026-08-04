@@ -24,8 +24,11 @@ The final blog post is saved as a markdown file in the `output/` folder.
 ## Example Inputs
 
 **Input:** `Agentic AI : How Multi Agent Systems Are Replacing Traditional Workflows in 2026.`
+
 **Input:** `Quantum Computing and How It Will Shape The Future.`
+
 **Input:** `Solar Battery Homes in 2026: Is Going Offgrid Finally Worth It`
+
 **Input:** `Rise of Gaming : Advantages and Disadvantages`
 
 
