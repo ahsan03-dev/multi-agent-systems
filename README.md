@@ -5,6 +5,8 @@ A **Multi-Agent System (MAS)** is an architectural pattern in which multiple aut
 
 In contrast to a **single-agent system**, where one model handles all aspects of a task sequentially, a MAS distributes responsibilities across a team of specialized agents. This reduces error rates and improves scalability for complex workflows.
 
+<br>
+
 ## How MAS Works
 
 The following workflow illustrates a typical MAS execution pipeline:
@@ -28,6 +30,7 @@ Agents exchange data through defined protocols. Common patterns include:
 - **Peer-to-peer:** Agents negotiate responsibilities dynamically
 - **Pipeline:** Output from one agent becomes input for the next
 
+<br>
 
 ## Key Benefits
 
@@ -37,6 +40,8 @@ Agents exchange data through defined protocols. Common patterns include:
 | **Specialization**     | Agents optimized for specific domains (e.g., data retrieval, code generation, verification) | Improves output accuracy by 15–40% compared to generalist models |
 | **Error Reduction**    | Reviewer agents catch and flag inconsistencies before final delivery                        | Reduces error propagation by enabling feedback loops             |
 | **Autonomy**           | Once initialized, the system executes without continuous human intervention                 | Enables 24/7 operation for batch workflows                       |
+
+<br>
 
 ## When to Use MAS
 
