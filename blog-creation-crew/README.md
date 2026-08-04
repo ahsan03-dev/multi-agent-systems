@@ -28,7 +28,7 @@ The final blog post is saved as a markdown file in the `output/` folder.
 -> `Solar Battery Homes in 2026: Is Going Offgrid Finally Worth It`  
 -> `Rise of Gaming : Advantages and Disadvantages`  
 
-**Output:** You can see the `output/` for to see the blog files generated from these inputs.
+**Output:** You can see the `output/` to see the blog files generated from these inputs.
 
 
 ## Setup
