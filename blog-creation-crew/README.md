@@ -25,7 +25,7 @@ The final blog post is saved as a markdown file in the `output/` folder.
 
 <br>
 
-## Demo
+## Example
 
 **Input:** `Agentic AI : How Multi Agent Systems Are Replacing Traditional Workflows in 2026`
 
