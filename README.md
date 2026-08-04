@@ -5,8 +5,6 @@ A **Multi-Agent System (MAS)** is an architectural pattern in which multiple aut
 
 In contrast to a **single-agent system**, where one model handles all aspects of a task sequentially, a MAS distributes responsibilities across a team of specialized agents. This reduces error rates and improves scalability for complex workflows.
 
----
-
 ## How MAS Works
 
 The following workflow illustrates a typical MAS execution pipeline:
@@ -20,7 +18,7 @@ The following workflow illustrates a typical MAS execution pipeline:
 | 5    | Validate outputs against quality criteria    | Reviewer Agent               |
 | 6    | Deliver final result                         | Orchestrator                 |
 
-<img width="1376" height="768" alt="28176beaa99f41a8860918091722fc65" src="https://github.com/user-attachments/assets/9aa1fb68-42ce-490e-bc2f-f0463fb8f4f4" />
+<img width="1280" height="760" alt="28176beaa99f41a8860918091722fc65" src="https://github.com/user-attachments/assets/9aa1fb68-42ce-490e-bc2f-f0463fb8f4f4" />
 
 ### Communication Patterns
 
@@ -30,7 +28,6 @@ Agents exchange data through defined protocols. Common patterns include:
 - **Peer-to-peer:** Agents negotiate responsibilities dynamically
 - **Pipeline:** Output from one agent becomes input for the next
 
----
 
 ## Key Benefits
 
@@ -41,7 +38,6 @@ Agents exchange data through defined protocols. Common patterns include:
 | **Error Reduction**    | Reviewer agents catch and flag inconsistencies before final delivery                        | Reduces error propagation by enabling feedback loops             |
 | **Autonomy**           | Once initialized, the system executes without continuous human intervention                 | Enables 24/7 operation for batch workflows                       |
 
----
 
 ## Trade-offs and Limitations
 
@@ -51,7 +47,6 @@ Agents exchange data through defined protocols. Common patterns include:
 | **Debugging complexity**   | Failures may originate in agent logic, communication protocols, or task decomposition | Implement centralized logging and agent state tracing        |
 | **Redundancy risk**        | Multiple agents may duplicate effort without clear boundaries                         | Define explicit agent responsibilities in the planning phase |
 
----
 
 ## When to Use MAS
 
