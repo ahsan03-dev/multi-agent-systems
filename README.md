@@ -38,16 +38,6 @@ Agents exchange data through defined protocols. Common patterns include:
 | **Error Reduction**    | Reviewer agents catch and flag inconsistencies before final delivery                        | Reduces error propagation by enabling feedback loops             |
 | **Autonomy**           | Once initialized, the system executes without continuous human intervention                 | Enables 24/7 operation for batch workflows                       |
 
-
-## Trade-offs and Limitations
-
-| Limitation                 | Mitigation                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| **Orchestration overhead** | Coordination between agents adds latency; not cost-effective for simple tasks         | Use MAS only when task complexity exceeds coordination cost  |
-| **Debugging complexity**   | Failures may originate in agent logic, communication protocols, or task decomposition | Implement centralized logging and agent state tracing        |
-| **Redundancy risk**        | Multiple agents may duplicate effort without clear boundaries                         | Define explicit agent responsibilities in the planning phase |
-
-
 ## When to Use MAS
 
 **Use MAS when:**
