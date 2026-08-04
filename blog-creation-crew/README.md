@@ -16,22 +16,22 @@ The final blog post is saved as a markdown file in the `output/` folder.
 
 <br>
 
-## Demo
-
-**Input:** `"coolcationing travel trends 2026"`
-
-**Output:** A fully researched, structured blog post saved as `output/coolcationing_travel_trends_2026_20260804_153820.md`
-
-*(See `output/` for sample posts)*
-
-<br>
-
 ## Tech Stack
 
 - Python 3.12
 - CrewAI
 - DuckDuckGo Search (free, no API key needed for research)
 - OpenRouter (free LLM tier)
+
+<br>
+
+## Demo
+
+**Input:** `Agentic AI : How Multi Agent Systems Are Replacing Traditional Workflows in 2026`
+
+**Output:** See the `output/` folder for a fully researched and proper blog file.
+
+<br>
 
 ## Setup
 
