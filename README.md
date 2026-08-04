@@ -5,7 +5,7 @@ A **Multi-Agent System (MAS)** is an architectural pattern in which multiple aut
 
 In contrast to a **single-agent system**, where one model handles all aspects of a task sequentially, a MAS distributes responsibilities across a team of specialized agents. This reduces error rates and improves scalability for complex workflows.
 
-<img width="2816" height="1536" alt="test" src="https://github.com/user-attachments/assets/b9e8a7b3-42d4-4f36-8dd2-01edfca8f736" />
+<img width="2816" height="1536" alt="test3" src="https://github.com/user-attachments/assets/a80567bb-c7da-4030-b098-9e36adb186f7" />
 
 ## How MAS Works
 
