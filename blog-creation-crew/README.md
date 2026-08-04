@@ -43,4 +43,4 @@ blog-crew/
 -> `Solar Battery Homes in 2026: Is Going Offgrid Finally Worth It`  
 -> `Rise of Gaming : Advantages and Disadvantages`  
 
-**Output:** You can see the `output/` to see the blog files generated from these inputs.
+**Output:** You can see the `output/` for blog files I have generated from these inputs.
