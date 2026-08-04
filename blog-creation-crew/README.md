@@ -13,7 +13,7 @@ Three AI agents work together like a real content team:
 
 The final blog post is saved as a markdown file in the `output/` folder.
 
-<img width="700" height="380" alt="test4" src="https://github.com/user-attachments/assets/6ab5cbf8-88f0-4259-be4c-67ca0897a76b" />
+<img width="600" height="300" alt="test4" src="https://github.com/user-attachments/assets/6ab5cbf8-88f0-4259-be4c-67ca0897a76b" />
 
 ## File Structure  
 
