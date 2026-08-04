@@ -1,0 +1,2 @@
+crewai
+ddgs # duckduckgosearch library for web research
