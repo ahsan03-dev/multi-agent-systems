@@ -5,7 +5,7 @@ A multi-agent system built with [CrewAI](https://crewai.com) that researches, wr
 
 ## How It Works
 
-Three AI agents work together like a real content team:
+Three AI agents work together like a real content using sequential process, tasks run in order: research first, then writing, then editing, with each agent's output passed to the next.
 
 1. **Research Analyst** — Searches the web for current facts and trends
 2. **Content Writer** — Drafts a structured blog post from the research
